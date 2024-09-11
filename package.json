@@ -37,8 +37,8 @@
     "react": "^16.2.0",
     "react-ckeditor-component": "^1.0.7",
     "react-dom": "^16.2.0",
-    "react-router": "^4.1.2",
-    "react-router-dom": "^4.2.2",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
     "socket.io": "^2.0.4",
     "socket.io-client": "^2.0.4"
   },
